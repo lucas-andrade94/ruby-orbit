@@ -47,6 +47,9 @@ bundle install
 
 # Run
 rails server
+
+# Run tests
+rails test
 ```
 
 ### How to run

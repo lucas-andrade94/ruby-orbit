@@ -55,10 +55,10 @@ rails server
 
 ### Screens
 <div align="center">
-    <img alt="Home Screen" title="Home Screen" src=".github\screen-1.jpg?raw=true" width="200px" />
-    <img alt="Login Screen" title="Login Screen" src=".github\screen-2.jpg?raw=true" width="200px" />
-    <img alt="Profile Screen" title="Profile Screen" src=".github\screen-3.jpg?raw=true" width="200px" />
-    <img alt="Users Screen" title="Users Screen" src=".github\screen-4.jpg?raw=true" width="200px" />
-    <img alt="Settings Screen" title="Settings Screen" src=".github\screen-5.jpg?raw=true" width="200px" />
+    <img alt="Home Screen" title="Home Screen" src=".github\screen-1.png?raw=true" width="200px" />
+    <img alt="Login Screen" title="Login Screen" src=".github\screen-2.png?raw=true" width="200px" />
+    <img alt="Profile Screen" title="Profile Screen" src=".github\screen-3.png?raw=true" width="200px" />
+    <img alt="Users Screen" title="Users Screen" src=".github\screen-4.png?raw=true" width="200px" />
+    <img alt="Settings Screen" title="Settings Screen" src=".github\screen-5.png?raw=true" width="200px" />
 </div>
 

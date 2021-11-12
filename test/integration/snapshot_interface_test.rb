@@ -8,13 +8,11 @@ class SnapshotInterfaceTest < ActionDispatch::IntegrationTest
   test "snapshot interface" do
     log_in_as(@user)
     get root_url
-    assert_select "div.pagination"
     # Invalid submission
     assert_no_difference "Snapshot.count" do
       post snapshots_path, params: { snapshot: { content: "" } }
     end
     assert_select "div#error_explanation"
-    assert_select "a[href=?]", "/?page=2" # Correct pagination link
     # Valid submission
     content = "Great demo today!"
     assert_difference "Snapshot.count", 1 do

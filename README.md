@@ -1,30 +1,64 @@
-# Orbit README
+<h1 align="center">
+    Orbit Feedback Application
+</h1>
 
-## A high level summary of the Orbit application
+<h4 align="center">
+  	Project Orbit
+</h4>
 
-1. The ability to add a new team member:
-    - first name
-    - surname
-    - department
-    - job role
-    - team
+<p>Project developed to learn more about Ruby on Rails</p>
 
-2. View/Show all team members
+<p align="center">
+	<a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-instalation">Instalation</a>
+</p>
 
-3. The ability to leave reviews/feedback for a team member
-    - grade
-    - content
-    - user_id
 
-4. View/Show all reviews/feedback
+## 🤖 Technologies
+Project developed using the following technologies:
 
-5. The ability to add areas of success as defined by client
-    - area 1: project delivery
-    - area 2: communications
-    - area 3: training
-    - area 4: objectives
-    - area 5: resourcing
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Sass](https://sass-lang.com/)
 
-6. View/Show all client areas of success
 
-7. The ability to view performance metrics
+## 💻 Project
+**Orbit Website**
+
+
+## 💿 Instalation
+### Prerequisites
+What is necessary to have installed:
+- [Node](https://nodejs.org/en/download/)
+- [Ruby](http://www.ruby-lang.org/en/)
+- [Rails](https://rubyonrails.org/)
+
+
+### Run in terminal:
+```
+# Clone this repository
+git clone https://github.com/lucas-andrade94/ruby-orbit.git
+
+# Go to the main folder
+cd ruby-orbit
+
+# Install dependencies
+bundle install
+
+# Run
+rails server
+```
+
+### How to run
+- Access localhost:3000 on browser
+
+
+### Screens
+<div align="center">
+    <img alt="Home Screen" title="Home Screen" src=".github\screen-1.jpg?raw=true" width="200px" />
+    <img alt="Login Screen" title="Login Screen" src=".github\screen-2.jpg?raw=true" width="200px" />
+    <img alt="Profile Screen" title="Profile Screen" src=".github\screen-3.jpg?raw=true" width="200px" />
+    <img alt="Users Screen" title="Users Screen" src=".github\screen-4.jpg?raw=true" width="200px" />
+    <img alt="Settings Screen" title="Settings Screen" src=".github\screen-5.jpg?raw=true" width="200px" />
+</div>
+
